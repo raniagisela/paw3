@@ -19,7 +19,7 @@ static String sayHello(String firstName){
         static String tambah(String var1, String var2){
             return var1 + " tambah " + var2;
         }
-           
+    
         public static void main(String[] args) {
             
             System.out.println(sayHello("Rania", "Gisela"));
